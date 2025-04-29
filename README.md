@@ -21,10 +21,7 @@ npm install
 ```
 
 3. Create a `.env.local` file in the root directory with the following variables:
-```env
-MONGODB_URI=mongodb://localhost:27017/yoga_app
-JWT_SECRET=your_jwt_secret_key_here
-JWT_EXPIRES_IN=7d
+
 ```
 
 4. Run the development server:
