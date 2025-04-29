@@ -1,0 +1,5 @@
+{
+  "/api/therapist/get-all/route": "app/api/therapist/get-all/route.js",
+  "/api/therapist/get-by-id/route": "app/api/therapist/get-by-id/route.js",
+  "/api/feedback/platform/route": "app/api/feedback/platform/route.js"
+}
